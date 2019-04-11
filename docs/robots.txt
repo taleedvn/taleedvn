@@ -1,4 +1,3 @@
 User-Agent: *
-Disallow: 
 
 Sitemap: https://www.taleedvn.com/sitemap.xml
